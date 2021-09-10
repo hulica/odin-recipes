@@ -1,0 +1,1 @@
+This is Project 0 for The Odin Project: the project should demonstrate basic html skills (prior to any CSS)
